@@ -1,6 +1,13 @@
 # 🤖 Claude AI Models & Datasets Archive
 
-![Claude AI Models Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Claude%20AI%20Models%20%26%20Datasets&fontSize=40&animation=fadeIn&fontColor=ffffff)
+<div align="center">
+
+# 🤖 Claude AI Models & Datasets Archive
+
+*A centralized hub for LLM datasets, offline weights, and student resources.*
+
+</div>
+
 
 
 [![GitHub Releases](https://img.shields.io/github/v/release/anknpolley123/Claude-AI-Models?style=for-the-badge&color=blue)](https://github.com/anknpolley123/Claude-AI-Models/releases)
