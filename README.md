@@ -81,7 +81,7 @@ GitHub: "@anknpolley123" (https://github.com/anknpolley123)
 
 
 <p align="center">
-  <b>AP_NOTES2 — Organize Your Thoughts. Build Your Future.</b>
+  <b>Claude-AI-Models — Organize Your Thoughts. Build Your Future.</b>
   <br>
   Made with ❤️ by Ankon Polley
 </p>
