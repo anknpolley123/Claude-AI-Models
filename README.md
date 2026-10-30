@@ -41,3 +41,9 @@ Using `wget`:
 ```bash
 wget [https://github.com/anknpolley123/Claude-AI-Models/releases/download/v1.0/fable5_mythos_dedup.jsonl.gz](https://github.com/anknpolley123/Claude-AI-Models/releases/download/v1.0/fable5_mythos_dedup.jsonl.gz)
 ```
+## 🤝 Contributing & Requests
+
+If you are a student or developer looking for specific AI datasets, lightweight fine-tuned models, or offline weights for educational projects:
+- Open an **[Issue](https://github.com/anknpolley123/Claude-AI-Models/issues)** with your dataset/model request.
+- Submit a **Pull Request** if you want to contribute documentation, setup scripts, or notebooks.
+
