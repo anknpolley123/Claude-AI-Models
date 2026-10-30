@@ -51,6 +51,10 @@ wget [https://github.com/anknpolley123/Claude-AI-Models/releases/download/v1.0/f
 If you are a student or developer looking for specific AI datasets, lightweight fine-tuned models, or offline weights for educational projects:
 - Open an **[Issue](https://github.com/anknpolley123/Claude-AI-Models/issues)** with your dataset/model request.
 - Submit a **Pull Request** if you want to contribute documentation, setup scripts, or notebooks.
+
+## Disclaimer
+This project is not officially affiliated with Anthropic. Please read the full [Legal Disclaimer](DISCLAIMER.md) before use.
+
 ## Support
 <p align="left">
   <a href="https://www.instagram.com/its_an_geun_woo?igsh=OTNqMndzdDFzZ293"><img src="https://img.shields.io/badge/Instagram-Main-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
