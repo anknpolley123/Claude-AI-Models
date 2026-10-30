@@ -68,3 +68,20 @@ This project is not officially affiliated with Anthropic. Please read the full [
 
 ---
 
+
+## 👨‍💻 Developer
+
+**Ankon Polley**
+
+**Developer | Programmer | Technology Enthusiast**
+
+GitHub: "@anknpolley123" (https://github.com/anknpolley123)
+
+---
+
+
+<p align="center">
+  <b>AP_NOTES2 — Organize Your Thoughts. Build Your Future.</b>
+  <br>
+  Made with ❤️ by Ankon Polley
+</p>
