@@ -1,5 +1,3 @@
-# 🤖 Claude AI Models & Datasets Archive
-
 <div align="center">
 
 # 🤖 Claude AI Models & Datasets Archive
