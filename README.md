@@ -39,6 +39,18 @@ Below is the list of assets hosted in this repository:
 - **Interactive Script**: One-line interactive script for mobile/Termux users with automatic download resumption (`wget -c`).
 - **Student-Friendly**: Optimized for local deployment, fine-tuning experiments, and offline execution.
 
+
+--
+
+## 📌 Other Features
+
+- **Free & Open Access**: Download full-scale dataset archives and model artifacts directly without paywalls.
+- **Hosted Model Index**: Instant access to 15 GGUF quantizations served directly via Hugging Face CDN.
+- **Interactive Script**: One-line interactive script for mobile/Termux users with automatic download resumption (`wget -c`).
+- **Student-Friendly**: Optimized for local deployment, fine-tuning experiments, and offline execution.
+
+---
+
 ---
 
 ## ⚡ Interactive Downloader Script (Termux / Linux)
