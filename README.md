@@ -43,7 +43,7 @@ Below is the list of assets hosted in this repository:
 
 ## ⚡ Interactive Downloader Script (Termux / Linux)
 
-![Bash Script Banner](https://img.shields.io/badge/Interactive_Downloader-Bash_%2F_Termux-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash Script Banner](https://img.shields.io/badge/Interactive_Downloader-Bash_%2F_Termux-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)(download_model.sh)
 
 To quickly pick and download any of the 15 model quantizations directly in **Termux** or any **Linux terminal** without copying URLs manually, use our interactive menu script:
 
