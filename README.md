@@ -153,6 +153,13 @@ This project is not officially affiliated with Anthropic. Please read the full [
   <a href="https://pin.it/3uKE8ZdFc"><img src="https://img.shields.io/badge/Pinterest-Saves-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 </p>
 
+## 📧 Contact
+
+<p align="left">
+  <a href="mailto:ankonpolley@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-Contact_Me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact Ankon via Proton Mail" /></a>
+</p>
+
+
 ---
 
 
